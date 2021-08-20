@@ -1,0 +1,30 @@
+git init // inicia uma pasta com todos componentes
+
+git status //exibe o status dos arquivos: 
+- Changes to be committed
+- Changes not staged for committed
+- untracked files (precisam ser tracked no git)
+
+git add //adiciona um arquivo 
+
+git add . // adiciona todos arquivos da pasta
+
+git commit + nome do arquivo com a extenção // para commitar um arquivo
+
+git commit -a // para commitar todos arquivos da pasta
+
+git commit -m "texto para a mensagem"  // é uma boa pratica enviar uma mensagem quando commitar um arquivo
+
+git push // comando de envio de arquivos
+
+git pull // puxa um arquivo do repositorio de alguem
+
+git clone + url do git clonado e um . no final// clonar um repositorio, pegar um projeto pronto pra minha maquina.
+
+git rm // comando para deletar arquivos
+
+git log // acessar o log de modificações
+
+git mv // renomeia um arquivo, move para outra pasta ctrl x
+
+
