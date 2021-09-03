@@ -31,4 +31,8 @@ git checkout //
 
 git ignore //ignota um arquivo
 
+git reset // resetar o estado de um branch
+
+
+
 
