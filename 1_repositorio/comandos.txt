@@ -27,4 +27,8 @@ git log // acessar o log de modificações
 
 git mv // renomeia um arquivo, move para outra pasta ctrl x
 
+git checkout //
+
+git ignore //ignota um arquivo
+
 
